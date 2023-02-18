@@ -1,7 +1,7 @@
 ## olá! meu nome é agatha petruz.
 
 - 🔭 atualmente procurando minha primeira vaga de emprego na área de programação !
-- 🌱 estudando HTML|CSS|JavaScript|Java|PHP
+- 🌱 estudando HTML|CSS|JavaScript|Java|MySQL|C
 - 📫 contato no email: agathapetruz14@gmail.com
 - 😄 she/her
 <div style="display: inline_block">
@@ -9,7 +9,9 @@
   <img align="center" alt="agatha-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="agatha-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="agatha-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="agatha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  <img align="center" alt="agatha-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="agatha-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg""> 
+  
 </div>
 
 ##
